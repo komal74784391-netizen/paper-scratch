@@ -1,0 +1,3 @@
+# Outline
+
+Draft outline placeholder.

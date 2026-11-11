@@ -1,2 +1,3 @@
 # paper-scratch
-Vellum programme support repository: paper-scratch
+
+Scratch space for drafts and reviewer notes.
