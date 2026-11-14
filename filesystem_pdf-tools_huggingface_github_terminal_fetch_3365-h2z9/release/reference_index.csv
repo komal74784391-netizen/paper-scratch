@@ -1,0 +1,41 @@
+short_id,title,scope_summary
+0103,Facility Registration and Permitting,Every regulated facility is registered with the institute before operations commence. changes to process categories require an amended schedule. Registration lapses when a facility reports no activity for four consecutive quarters.
+0117,Emission Point Inventory,"The operator maintains an inventory of every emission point, including fugitive sources and emergency vents. retired points remain listed for two years. The inventory is reconciled with the continuous monitoring configuration each quarter."
+0128,Fuel Input Recordkeeping,Fuel deliveries are recorded at the point of unloading. imbalances above three percent are investigated. Records are retained for five years.
+0146,Continuous Stack Monitoring,Each registered operator must operate a continuous monitoring system on every emission stack named in its permit. the correction record is countersigned by the monitoring technician. Quarterly summaries are transmitted to the authority no later than twenty days after the quarter closes.
+0164,Continuous Stack Monitoring,Independent verification of continuous monitoring installations is completed before initial certification. unresolved findings suspend the reporting obligation until the findings are closed. Re-verification is required after any change to stack geometry or sampling location.
+0181,Meteorological Data Collection,Each site operates a meteorological station at or near the main stack. siting deviations are documented and accepted by the authority. Data gaps longer than two hours are flagged in the monthly report.
+0195,Startup and Shutdown Notification,Planned startups and shutdowns are notified at least seventy-two hours in advance. a close-out notice is filed when normal operation resumes.
+0210,Combustion Tuning Records,Combustion tuning is performed after any burner maintenance. deviations from the commissioning baseline above five percent are explained.
+0224,Ash Handling and Disposal,Ash is transferred in closed systems. disposal receipts are reconciled with ash production each month.
+0235,Ambient Air Quality Indexing - Method Comparability,Indexing of ambient air quality results is performed against the reference method for each pollutant. the log is reviewed by the air quality lead each month. Index calculations are suspended while a station operates outside the reference method.
+0253,Ambient Air Quality Indexing,Ambient air quality indices are computed for each monitoring station. values are rounded to the nearest integer and published within ten days of the month end. Provisional values are flagged until the underlying data completes quality assurance.
+0268,Noise Monitoring Near Boundary,Noise is monitored at the nearest sensitive receptor. the plan is reviewed with the authority.
+0271,Odour Complaint Response,"Odour complaints are logged with the time, location and prevailing wind. assessment findings are reported to the authority."
+0286,Effluent Discharge Sampling,Effluent is sampled at the discharge point before any dilution. calibration records accompany the analytical results.
+0294,Cooling Water Intake Screening,Intake screens are inspected daily during the cooling season.
+0309,Stormwater Pollution Prevention,The site maintains a stormwater plan covering all exposed areas.
+0327,Groundwater Sampling Protocol,Samples are collected from every monitoring well on the site schedule. corrections are initialled and dated. Laboratory results are reconciled against the previous four quarters before they are entered in the site register.
+0341,Groundwater Remediation Reporting,Remediation progress is reported each half year.
+0355,Soil Vapour Assessment,Soil vapour assessments are performed before any excavation deeper than two metres.
+0372,Groundwater Sampling Protocol,Audit sampling follows the same well schedule as routine sampling. the review report is filed with the authority within forty-five days. Audit sampling does not replace routine sampling obligations.
+0389,Waste Storage Inspections,Waste storage areas are inspected weekly.
+0392,Waste Transfer Documentation,Each waste transfer is documented with a transfer note.
+0418,Hazardous Waste Manifest Retention,The generator retains signed manifests for a period of seven years from the date of shipment. corrections are made by a signed addendum. Duplicate manifests are provided to the transporter and to the receiving facility.
+0426,Manifests for Non-Hazardous Wastes,Non-hazardous waste consignments are documented with a simplified manifest.
+0443,Spill Response Drills,Spill response drills are conducted at least twice each year. corrective actions are tracked to closure.
+0457,Emergency Contact Rosters,Emergency contact rosters are updated quarterly.
+0481,Hazardous Waste Manifest Retention - Consolidated Schedule,"Consolidated schedules aggregate manifest data for facilities that ship more than two hundred consignments per year. unexplained variances of more than five percent are reported. Consolidated schedules supplement, and do not replace, individual manifest retention."
+0494,Incident Investigation Records,Every reportable incident is investigated within fifteen days.
+0512,Contractor Safety Induction,Contractors complete a site induction before beginning work.
+0529,Site Access Control Logs,Entry and exit are logged electronically at all times.
+0547,Corrective Action Plans - Legacy Template,Legacy corrective action templates remain valid for findings recorded before the current revision date. approvals are recorded in the management system. Legacy templates sunset at the end of the next certification cycle.
+0558,Management Review Minutes,Management reviews of the compliance system are held at least twice a year.
+0574,Corrective Action Plans,A corrective action plan is raised for every finding of major non-conformance. extensions require written approval.
+0602,Emissions Offset Register,The emissions offset register lists every project for which the operator claims reductions. entries without a supporting opinion are marked as provisional. The register is reconciled to the carbon credit ledger at each quarter end.
+0620,Emission Offset Verification,Offset verification is performed by an independent verifier accredited by the authority. verified reduction certificates are issued only after the opinion is accepted. Records of verification are retained for the life of the offset plus ten years.
+0634,Carbon Credit Ledger Reconciliation,The carbon credit ledger records every certificate issued or retired. frozen entries are reported to the authority.
+0649,Annual Compliance Certification,The designated representative certifies compliance annually. late certifications are reported as non-conformance.
+0663,Public Disclosure Register,Disclosable monitoring results are published in the public register within thirty days of validation.
+0678,Record Destruction Authorization,Records are destroyed only under a written authorization. destruction logs are retained permanently.
+0692,Appeals and Review Proceedings,A facility may appeal a non-conformance finding within twenty working days of notice. panel decisions are final.
